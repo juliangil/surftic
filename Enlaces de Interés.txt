@@ -24,6 +24,12 @@ EMPRESAS COMPETENCIA
 Mi tienda nube
 https://surftic.mitiendanube.com
 
+Monomi
+http://monomi.co/planes
+
+Weeble (Bonito DiseÃ±o)
+https://www.weebly.com/ar
+
 eWapp
 https://ewapp.com.ar
 
@@ -38,7 +44,7 @@ wordpress themes
 https://www.elegantthemes.com/
 
 
-DISEÑO
+DISEÃ‘O
 Behance
 https://www.behance.net
 
@@ -46,10 +52,14 @@ Parallax
 http://www.parallaxslider.com/
 
 
-Awwwards (Pagina de diseño- califica diseño)
+Awwwards (Pagina de diseÃ±o- califica diseÃ±o)
 http://www.awwwards.com/30-great-websites-with-parallax-scrolling.html
 ejemplos 
 http://melanie-f.com/en/
 http://www.awwwards.com/30-great-websites-with-parallax-scrolling.html
 http://melaniedaveid.com/
+
+Enlaces de Interes
+Articulo que habla sobre lo que queremos hacer
+http://www.enter.co/guias/lleva-tu-negocio-a-internet/aprende-como-aceptar-pagos-en-linea-en-tu-sitio-web/
 
